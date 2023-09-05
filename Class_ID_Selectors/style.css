@@ -1,0 +1,21 @@
+.one{
+    background-color:hsl(0,70%,80%);
+    font-family:"Verdana Dejavu Sans", sans-serif;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+
+#first{
+    color: hsl(250,90%,50%);
+    font-size: 36px;
+}
+#forth{
+    background-color: rgb(38, 233, 64);
+    font-weight: bold;
+
+}
+
+
