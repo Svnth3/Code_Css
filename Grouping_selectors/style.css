@@ -1,0 +1,16 @@
+.left,.rigth
+{
+    font-size: 50px;
+    font-style: italic, "Times new romans", sans-serif;
+    font-weight: bold;
+}
+
+.left{
+    color: white;
+    background-color: black;
+    
+}
+
+.rigth{
+    background-color: yellow;
+}
